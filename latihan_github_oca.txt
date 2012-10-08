@@ -1,0 +1,19 @@
+git digunakan untuk membuat catatan perubahan di file sentralis dan disebutit
+cara membuat generati keygen nya tulis di terminal : ssh-keygen
+lau dia kan menyimpan di (/home/rosa/.ssh/id_rsa): lalu enter lagi
+
+git clone : fungsinya untuk mengcopy atau mengambil file
+git : nama dari presition controling
+git setaus : untuk melihat perubahan yang kita buat
+git add untuk memilih file yang akn di komit
+titik (.) fungsi nya untuk mengkomit semua file yang ad
+git commit -m "menambahs 1 file" untuk meletakan/menyimpan file k'repo
+git push untuk menaruk/meletakan ke server pusat
+git pull untuk mengambil perubahan terbaru dari revo pusat (server)
+fork untuk mengcopy dari github orang lain ke github kita
+git pull untuk mengamil update ke server atu pus.
+
+cara mngepull riqest
+ktik di terminal masuk dulu k'dekstop cara y cd dekstop
+lalu masuk ke github masukan alamat yang mau kita riqest
+lalu copy ke terminal lau git push lalu git pull
